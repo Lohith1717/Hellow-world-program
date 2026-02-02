@@ -1,0 +1,6 @@
+print("*" * 40)
+print("*{:^38}*".format("WELCOME TO PYTHON"))
+print("*" * 40)
+print("*{:^38}*".format("Hello, Lohith!"))
+print("*{:^38}*".format("Python Installed Successfully"))
+print("*" * 40)
